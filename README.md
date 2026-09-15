@@ -1,4 +1,4 @@
-# AI Agent Learn
+# Code Editor Ai
 
 A small Python project for learning how to build an AI coding agent with OpenAI-compatible tool calls. It includes a calculator application used as the agent's working directory and four tools for inspecting, running, and modifying files.
 
